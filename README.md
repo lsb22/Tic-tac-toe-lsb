@@ -1,1 +1,1 @@
-See the final [version](https://replit.com/@lsb22/TicTacToe)
+See the final [version](https://lsb22.github.io/Tic-tac-toe-lsb/)
